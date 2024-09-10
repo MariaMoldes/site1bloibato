@@ -9,7 +9,7 @@
 
  .cabecalho {
   background-color: aliceblue;
-  padding: 50px;
+  padding: 135px;
  }
 
  .corpo{
@@ -19,4 +19,5 @@
 
  .footer{
  background-color: aquamarine;
+ padding: 89px;
  }
