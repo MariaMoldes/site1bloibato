@@ -21,3 +21,20 @@
  background-color: aquamarine;
  padding: 89px;
  }
+ .boton {
+    position: fixed; 
+    top: 20px;
+    left: 20px;
+    padding: 10px 20px;
+    background-color: aliceblue;
+    color: black;
+    text-decoration: none;
+    border-radius: 5px;
+
+ }
+ .boton:hover{
+    background: linear-gradient(TO RIGHT,#71ebbc, #6fd0f7, #8e4fd6);
+ }
+ .boton:active{
+    font-size: 15px;
+ }
